@@ -6,6 +6,6 @@ Ninad Chavan
 <img src="ZeldaImg.png" alt="ZeldaImage" style="width:25%"><br>
 <a href="/eecs494/zelda.zip">MacOS and Windows Builds</a>
 
-## Project 2 - Dash Prototype
-<img src="DashImg.png" alt="DashImage" style="width:25%"><br>
-<a href="/eecs494/dash.zip">MacOS and Windows Builds</a>
+## Project 2 - Tetris Tiles
+<img src="tetris_tiles.png" alt="tetris_tiles" style="width:25%"><br>
+<a href="/eecs494/nchavan-p2-gold.zip">MacOS and Windows Builds</a>
