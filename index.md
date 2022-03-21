@@ -11,4 +11,5 @@ Ninad Chavan
 <a href="/eecs494/nchavan-p2-gold.zip">MacOS and Windows Builds</a>
 
 ## Project 3 - Midnight Madness
-<a href="/eecs494/midnight-builds.zip">MacOS and Windows Builds</a>
+<a href="/eecs494/bigfoot-builds.zip">GoldSpike - MacOS and Windows Builds</a>
+<a href="/eecs494/midnight-builds.zip">Milestone - MacOS and Windows Builds</a>
