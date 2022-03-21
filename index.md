@@ -10,5 +10,5 @@ Ninad Chavan
 <img src="tetris_tiles.png" alt="tetris_tiles" style="width:25%"><br>
 <a href="/eecs494/nchavan-p2-gold.zip">MacOS and Windows Builds</a>
 
-## Project 3 - Bigfoot
-<a href="/eecs494/bigfoot-builds.zip">MacOS and Windows Builds</a>
+## Project 3 - Midnight Madness
+<a href="/eecs494/midnight-builds.zip">MacOS and Windows Builds</a>
