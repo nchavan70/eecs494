@@ -14,3 +14,5 @@ Ninad Chavan
 <a href="/eecs494/bigfoot-builds.zip">GoldSpike - MacOS and Windows Builds</a>
 
 <a href="/eecs494/midnight-builds.zip">Milestone - MacOS and Windows Builds</a>
+
+<a href="/eecs494/p3-milestone-2.zip">Milestone 2 - MacOS and Windows Builds</a>
